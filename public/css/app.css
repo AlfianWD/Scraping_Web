@@ -1,0 +1,45 @@
+/* Created By Alfian Wahyu */
+
+.container {
+    max-width: 500px;
+    margin: 60px;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #020202;
+}
+
+.container h2 {
+    text-align: center;
+    margin-left: 15px;
+}
+
+.container form {
+    margin: 15px;
+    padding: 10px;
+}
+
+.form-grup {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+input[type="text"] {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
